@@ -1,0 +1,21 @@
+{
+  "name": "nodeclustermanager",
+  "version": "0.0.7",
+  "description": "Simple Node Cluster Manager is useful to create RestFul web services using Express and Node.js with high performance.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Cluster",
+    "RestFul API"
+  ],
+  "author": "priya",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "cluster": "^0.7.7",
+    "express": "^4.13.4",
+    "loadtest": "^1.3.0"
+  }
+}
