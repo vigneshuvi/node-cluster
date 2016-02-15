@@ -13,7 +13,7 @@ Simple Node Service Manager is useful to create RESTful web services using Expre
 ####1. Environment setup
 
     -   Install node and load test module gloably. Command : `sudo npm install -g loadtest`
-    -   Clone or Download the Node Cluster repostory [a link](https://github.com/vigneshuvi/node-cluster.git).
+    -   Clone or Download the Node Cluster repostory [`https://github.com/vigneshuvi/node-cluster.git`](https://github.com/vigneshuvi/node-cluster.git)* .
     -   Open a terminal and move to `node-cluster` directory. Command : `cd node-cluster`
     -   Install requires dependency modules. Command : `sudo npm install`
     -   Environment ready for load testing our application.
